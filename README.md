@@ -1,7 +1,3 @@
-<img src=".\images\idea.png"
-     alt="coding ideas"
-     align="left" />
-
 ```clojure
 (def tiago
   {:name "Tiago Prata"
