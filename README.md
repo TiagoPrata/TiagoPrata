@@ -16,6 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPrata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=TiagoPrata&show_icons=true)
+
 #### Find me on:
 [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"
      alt="https://twitter.com/pratiago"
