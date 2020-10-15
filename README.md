@@ -18,6 +18,8 @@
    :lang [🇧🇷, 🇬🇧]})
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPrata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Find me on:
 [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"
      alt="https://twitter.com/pratiago"
@@ -27,3 +29,5 @@
      alt="https://www.linkedin.com/in/tiago-prata/"
      height="20px"
      align="left" />](https://www.linkedin.com/in/tiago-prata/)
+
+![GitHub followers](https://img.shields.io/github/followers/TiagoPrata?label=Follow&style=social)
