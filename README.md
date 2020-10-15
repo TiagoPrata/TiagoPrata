@@ -14,8 +14,14 @@
    :lang [🇧🇷, 🇬🇧]})
 ```
 
-![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=TiagoPrata&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPrata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table><tr><td vlign="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoPrata&show_icons=true" />
+     </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPrata&layout=compact" />
+     </a>
+</td></tr></table>
 
 #### Find me on:
 [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"
