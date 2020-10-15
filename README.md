@@ -14,9 +14,8 @@
    :lang [🇧🇷, 🇬🇧]})
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPrata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=TiagoPrata&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPrata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Find me on:
 [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"
