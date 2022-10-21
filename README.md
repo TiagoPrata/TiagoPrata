@@ -24,6 +24,6 @@
 </center>
 
 #### Find me on:
-![Twitter](https://img.shields.io/twitter/follow/pratiago?style=social)
-![LinkedIn](https://img.shields.io/static/v1?label=Follow&message=tiago-prata&style=social&logo=linkedin&url=https://www.linkedin.com/in/tiago-prata/)
-![GitHub followers](https://img.shields.io/github/followers/TiagoPrata?label=Follow&style=social)
+[<img src="https://img.shields.io/twitter/follow/pratiago?style=social">](https://twitter.com/pratiago)
+[<img src="https://img.shields.io/static/v1?label=Follow&message=tiago-prata&style=social&logo=linkedin">](https://www.linkedin.com/in/tiago-prata/)
+[<img src="https://img.shields.io/github/followers/TiagoPrata?label=Follow&style=social">](https://github.com/TiagoPrata)
