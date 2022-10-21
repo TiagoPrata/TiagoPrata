@@ -5,13 +5,13 @@
    :work-place "ABB"
    :education ["M.Sc in Automation and Control" 
                "B.Sc. in Automation and Control Engineering"]
-   :age 30
+   :age 32
    :city "São Paulo, 🇧🇷"
    :interests ["machine learning" "python" 
                "control theory" "free software" 
                "web" "math" "latex" 
                "embedded software" "hacks"]
-   :lang [🇧🇷, 🇬🇧]})
+   :lang [🇧🇷, 🇬🇧, 🇪🇸]})
 ```
 
 <center>
@@ -24,13 +24,6 @@
 </center>
 
 #### Find me on:
-[<img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"
-     alt="https://twitter.com/pratiago"
-     height="20px"
-     align="left" />](https://twitter.com/pratiago)
-     [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"
-     alt="https://www.linkedin.com/in/tiago-prata/"
-     height="20px"
-     align="left" />](https://www.linkedin.com/in/tiago-prata/)
-
+![Twitter](https://img.shields.io/twitter/follow/pratiago?style=social)
+![LinkedIn](https://img.shields.io/static/v1?label=Follow&message=tiago-prata&style=social&logo=linkedin&url=https://www.linkedin.com/in/tiago-prata/)
 ![GitHub followers](https://img.shields.io/github/followers/TiagoPrata?label=Follow&style=social)
